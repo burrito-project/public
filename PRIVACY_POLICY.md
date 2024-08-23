@@ -29,6 +29,10 @@ The generated fingerprint is sent to our server each time you access the applica
 
 "Contigo Burrito UNMSM" does not require user sessions or authentication to use the app. The app functions independently of any user credentials, providing 24/7 access to the bus tracking map.
 
+## Notifications and News
+
+"Contigo Burrito UNMSM" includes a carousel that displays university news and important updates. This content is purely informational and is not considered in-app advertising. It is intended to keep students informed about relevant updates and events within the university.
+
 ## Data Sharing
 
 We do not share, sell, or distribute any collected data to third parties. The data is used internally to enhance app performance and user experience.
