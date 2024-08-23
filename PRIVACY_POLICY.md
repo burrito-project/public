@@ -23,7 +23,8 @@ When you use "Contigo Burrito UNMSM," the app generates a fingerprint by hashing
 
 ### Purpose of Data Collection
 
-The generated fingerprint is sent to our server each time you access the application. This is done solely for **analytics purposes** to understand usage patterns and improve the app's performance. **No personal information is collected or stored**.
+The generated fingerprint is sent to our server each time you access the application. This is done solely for **analytics purposes** to understand usage patterns and improve the app's performance. **No personal information is collected or stored**. **No interactions with the app are linked to any identifiable user**.
+**We can not identify individual users based on the fingerprint alone.**
 
 ### No User Sessions or Authentication
 
