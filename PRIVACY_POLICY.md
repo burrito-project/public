@@ -32,7 +32,7 @@ The generated fingerprint is sent to our server each time you access the applica
 
 ## Notifications and News
 
-"Contigo Burrito UNMSM" includes a carousel that displays university news and important updates. This content is purely informational and is not considered in-app advertising. It is intended to keep students informed about relevant updates and events within the university.
+"Contigo Burrito UNMSM" includes a carousel that displays university important updates. This content is purely informational and is not considered in-app advertising. It is intended to keep students informed about relevant updates and events within the university. No information of who sees or interacts with the notifications are stored.
 
 ## Data Sharing
 
