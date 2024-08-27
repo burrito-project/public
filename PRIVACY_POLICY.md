@@ -52,4 +52,4 @@ If you have any questions about this Privacy Policy, please contact us at [conti
 
 ---
 
-Last updated: Thursday 22 Aug 2024
+Last updated: Thursday 27 Aug 2024
