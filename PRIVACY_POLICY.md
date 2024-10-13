@@ -8,8 +8,14 @@ Welcome to "Contigo Burrito UNMSM." This app is designed to provide real-time tr
 
 The app only requests the following permission:
 
-- **Internet Access**:
-  `<uses-permission android:name="android.permission.INTERNET"/>`
+- **Location Access**:
+  `android.permission.ACCESS_FINE_LOCATION`, `android.permission.ACCESS_COARSE_LOCATION`
+
+  This permission is required to show your real-time position on the campus map.
+  We only access your location while the app is in use, and it is not stored or shared with any
+  third party.
+
+- **Internet Access**: `android.permission.INTERNET`
   This permission is required to access the real-time bus tracking data.
 
 ## Data Collection
@@ -20,6 +26,12 @@ When you use "Contigo Burrito UNMSM," the app generates a fingerprint by hashing
 
 - **On Android**: The Android ID is hashed.
 - **On iOS**: The "identifierForVendor" is hashed.
+
+### Location Data
+
+We collect your current location only when the app is open and actively in use.
+This information is used exclusively to display your position relative to the bus route.
+We do not store or share this data.
 
 ### Purpose of Data Collection
 
@@ -52,4 +64,4 @@ If you have any questions about this Privacy Policy, please contact us at [conti
 
 ---
 
-Last updated: Thursday 27 Aug 2024
+Last updated: Tuesday 13 Oct 2024
